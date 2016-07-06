@@ -11,6 +11,8 @@ docker images
 
 then you got a new docker image `rpi-gitlab`
 
+run the docker image
+
 ```
 docker run --detach \
     --hostname 172.17.0.1 \
